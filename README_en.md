@@ -1,7 +1,5 @@
 # Guided Prompting and Language Model Bias Experiment
 
-[中文版README](./README.md)
-
 ## Dependencies
 
 Install with:
